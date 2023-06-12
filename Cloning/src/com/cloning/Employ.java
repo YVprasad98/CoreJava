@@ -14,6 +14,7 @@ public class Employ implements Cloneable {
 	}
 
 	public void setName(String Name) {
+		
 		name = Name;
 	}
 
